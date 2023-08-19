@@ -60,6 +60,6 @@ It is important to take steps to ensure that any and all requests being made fro
 <img width="957" alt="image" src="https://user-images.githubusercontent.com/66540055/194638694-9455ec72-da89-42c1-a45a-cb26435a7014.png">
 
 
-You may be thinking, well another clear indicator is that the URL above is an IP address and not the usual www.facebook.com. That is a correct and astute oberservation but that can easily be spoofed by tampering with the host file on the machine or the DNS server in the network. I will be going over pharming attacks more in-depth in due time. 
+You may be thinking, well another clear indicator is that the URL above is an IP address and not the usual www.facebook.com. That is a correct oberservation but that can easily be spoofed by tampering with the host file on the machine or the DNS server in the network. I will be going over pharming attacks more in-depth in due time. 
 
 Thanks for reading, Happy Hacking!
